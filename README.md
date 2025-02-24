@@ -32,6 +32,7 @@ Build a **content-based recommendation system** that, given a **short text descr
    - Compute **cosine similarity** of an input query to a movie.  
       - Cosine similarity is used to compare the numerical vector of the input query to the documents. The closest matching documents will have a higher cosine similarity. 
    - Return the **top 5** similar items.
+   - A more involved version of this code produces an AI-generated plot based on the query using Gemini and then recommends similar movies. This does improve similarity scores and overall recommendations.
 
 3. **Code Organization**  
    - **Jupyter Notebook** 
@@ -76,9 +77,6 @@ Build a **content-based recommendation system** that, given a **short text descr
 ---
 
 ## Deliverables
-
-1. **Fork the Public Repository**  
-   - **Fork** this repo into your own GitHub account.
 
 3. **Short Video Demo**  
    - In a `.md` file (e.g., `demo.md`) within your fork, paste a link to a **brief screen recording** (video link).  
