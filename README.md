@@ -78,9 +78,5 @@ Build a **content-based recommendation system** that, given a **short text descr
 
 ## Deliverables
 
-3. **Short Video Demo**  
-   - In a `.md` file (e.g., `demo.md`) within your fork, paste a link to a **brief screen recording** (video link).  
-   - Demonstrate:
-     - How you run the recommendation code.  
-     - A sample query and the results.
+https://youtu.be/PnuB-2seD_c
 
